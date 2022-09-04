@@ -1,0 +1,10 @@
+body {
+  font-size: 30px;
+  text-transform: capitalize;
+  background-color: blue;
+}
+
+hr {
+  color: white;
+  width: 100px;
+}
